@@ -1,0 +1,58 @@
+{
+    "hairType": "Straight",
+    "hairID": "1"
+}
+{
+    "hairType": "Wavy",
+    "hairID": "2",
+    "hairPattern": [
+        {
+            "hairID": "Wavy",
+            "hairPattern": "a"
+        },
+        {
+            "hairID": "Wavy",
+            "hairPattern": "b"
+        },
+        {
+            "hairID": "Wavy",
+            "hairPattern": "c"
+        }
+    ]
+}
+{
+    "hairType": "Curly",
+    "hairID": "3",
+    "hairPattern": [
+        {
+            "hairID": "Curly",
+            "hairPattern": "a"
+        },
+        {
+            "hairID": "Curly",
+            "hairPattern": "b"
+        },
+        {
+            "hairID": "Curly",
+            "hairPattern": "c"
+        }
+    ]
+}
+{
+    "hairType": "Kinky",
+    "hairID": "4",
+    "hairPattern": [
+        {
+            "hairID": "Kinky",
+            "hairPattern": "a"
+        },
+        {
+            "hairID": "Kinky",
+            "hairPattern": "b"
+        },
+        {
+            "hairID": "Kinky",
+            "hairPattern": "c"
+        }
+    ]
+}
